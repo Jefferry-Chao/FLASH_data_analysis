@@ -5,6 +5,7 @@
 #***Mail: zhaozhonghi@126.com 
 #***Created Time: 2018年03月25日 星期日 14时39分05秒
 #*************************************************************************
+# add a line
 class flash_class(object):
     '''
     This class contains some function used in flash_visual module.
